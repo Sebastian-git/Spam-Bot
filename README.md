@@ -14,7 +14,7 @@ delay through a GUI. After opening, the program gives 3 seconds for a text field
 
 ### Launch
 
-Python 3.6.3
+Java 1.8.0_151-b12
 
 ### Status
 
